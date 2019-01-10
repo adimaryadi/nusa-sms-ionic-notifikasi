@@ -1,0 +1,36 @@
+page-verifikasi {
+	.verifikasi-registrasi {
+		position: relative;
+		text-align: center;
+	    top: 73px;
+	    .title {
+	    	text-align: center;
+	    }
+	    .content {
+	    	p {
+	    		margin-bottom: 0;
+	    		margin-top: 0;
+	    	}
+	    }
+	    .code {
+	    	.card {
+	    		.card-content {
+	    			.input {
+	    				display: inline;
+	    				.text-input {
+	    					margin: 0;
+	    				}
+	    			}
+	    		}
+	    	}
+		    .text-input-md {
+			    border: 1px solid;
+			    border-radius: 5px;
+			    height: 42px;
+			    width: 42px;
+			    padding: 15px;
+			    font-size: 18px;		    	
+		    }	    	    	
+	    }
+	}
+}
